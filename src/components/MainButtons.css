@@ -1,0 +1,36 @@
+.main-buttons {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 30px;   
+    padding-bottom: 20px;
+}
+
+.main-buttons button {
+    font-size: 14px;
+    font-weight: normal;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    width: 115px;
+    height: 34px;
+}
+
+.email {
+    background-color: white;
+    color: black;
+}
+
+.linkedin {
+    background-color: #5093E2;
+    color: white;
+}
+
+.main-buttons button a {
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    color: inherit;
+}
+

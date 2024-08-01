@@ -1,0 +1,13 @@
+.foot {
+    background-color: #161619;
+    color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.foot p {
+    font-size: 10.24px;
+    font-weight: normal;
+    text-align: center;
+    margin: 20px auto;
+}

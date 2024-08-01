@@ -1,0 +1,19 @@
+.card {
+    background-color: #1A1B21;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    margin: 10px;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+.card img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 350px;
+    height: auto;
+}
+
+

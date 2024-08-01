@@ -1,0 +1,27 @@
+.person{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 30px;
+}
+
+.person h1{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 5px 0;
+}
+
+.person h3{
+    font-size: 12.8px;
+    margin: 5px 0;
+    color: #F3BF99;
+    font-weight: normal;
+}
+
+.person a{
+    color: white;
+    text-decoration: none;
+    font-size: 10.24px;
+    margin: 5px 0;
+}
