@@ -1,6 +1,6 @@
 # react1
 Sample react project for me to test the potentials of react. 
-This is my business card based on a figma template foud online.
+This is my business card based on a figma template found online.
 
 You can checkk all the code on the master branch.
 
